@@ -1,3 +1,6 @@
+# 说明
+作者之前给的脚本下载不行，然后自己写了一个简单的爬虫，一个文件是生成txt url的 download是开始下载的
+
 # PS-Battles
 Repository of the [PS-Battles dataset, an image collection for image manipulation detection](https://arxiv.org/abs/1804.04866).
 
